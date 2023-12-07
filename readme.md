@@ -1,4 +1,4 @@
-<!-- **PROJECT STRUCTURE** -->
+<!---**PROJECT STRUCTURE**
 ![CS50x](https://user-images.githubusercontent.com/55560024/152912699-0ce169fa-e532-404f-9f29-d030df30cdd5.png)
 
 ## JavaScript Typing Game🎮
@@ -61,3 +61,4 @@ This will motivate others to do more.
 **codimng WORDBEATER🏆**
   ![image](https://user-images.githubusercontent.com/55560024/152662669-d24933f7-6f3a-416b-9768-c606f8e38c6d.png)
 
+---!>
