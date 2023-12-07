@@ -1,6 +1,6 @@
 
 ## JavaScript Typing Game🎮
-![image](https://user-images.githubusercontent.com/55560024/152662485-876cbb7a-8bc9-4791-b0ad-279b1c89ddd0.png)
+
 ## AUTHOR: Yash Dhokiya
 ## Portfolio:  <a href = "https://qbentil.me" target = "_blank">qbentil.me</a>
 ## Year: 2023
@@ -57,5 +57,4 @@ This will motivate others to do more.
 
 # PROJECT TITLE
 **codimng WORDBEATER🏆**
-  ![image](https://user-images.githubusercontent.com/55560024/152662669-d24933f7-6f3a-416b-9768-c606f8e38c6d.png)
 
